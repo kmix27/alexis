@@ -1,0 +1,1 @@
+Sometimes your girlfriend needs to do a data exploration for an interview and she's curious how one would do it in python.  In times like those I'm pretty ok to have around!
